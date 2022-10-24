@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/49017222/197518651-449da046-6a29-4524-
 - Custom Cursor
 - Mouse Move Event
 - Mouse Click Event
+
+## Limitations
+- Not Responsive
